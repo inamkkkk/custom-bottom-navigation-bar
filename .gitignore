@@ -1,0 +1,31 @@
+# Flutter
+*.iml
+.idea/
+.dart_tool/
+.metadata
+
+# Build artifacts
+build/
+android/build/
+ios/build/
+web/build/
+
+# Generated files
+lib/**/*.g.dart
+lib/**/*.freezed.dart
+
+# Logs
+*.log
+
+# Packages
+.packages
+
+# Editors
+.vscode/
+*.swp
+*~
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
